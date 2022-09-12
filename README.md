@@ -1,6 +1,10 @@
 # First-Blood
 [2016 대구과학고등학교 프로젝트] 슈팅 게임 만들기
 
+*** 본 코드는 환경 구축이 안되어 실행이 안됩니다. ***
+
+
+
 # 보고서 세부 내용
 ![2509 오경준 2516 정우열 최종보고서_1](https://user-images.githubusercontent.com/76677980/189705306-176bd816-01d7-4378-a6b4-00cfae1da8f9.png)
 ![2509 오경준 2516 정우열 최종보고서_2](https://user-images.githubusercontent.com/76677980/189705323-4134a299-bd8e-41ee-9186-20541a1cd54a.png)
